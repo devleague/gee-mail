@@ -8,6 +8,13 @@ With this coding challenge you will be creating a simulation of a little known c
 
 We have created a basic mail generator script for you that will load a handful of pre-populated messages when your application loads and you will be requried to consume that data and build out UI elements to display that data along with populating new messages and some other basic functionality.
 
+## Pre-Requisites
+You will need the following tools to complete this challenge
+
+* A personal GitHub account
+* [Sublime Text 2 ](http://www.sublimetext.com/2)
+* [Git](https://help.github.com/articles/set-up-git#platform-all)
+
 ## Objectives
 
 1. Fork this repository to your own GitHub profile and clone to your local machine.
