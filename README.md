@@ -36,11 +36,11 @@ You will need the following tools to complete this challenge
 
 5. You must show an inbox count somewhere on the page to show the current number of messages in your inbox.
 
-6. Set a recurring function to via the JavaScript `setTimeout` function that will call a `getNewMessage` function that we have created for you that will return a newly created message with the same properties as your previous messages.
+6. Set a recurring function to via the JavaScript `setInterval` function that will call our existing `getNewMessage` function that we have created for you that will return a newly created message with the same properties as your previous messages.
 
 6. All CSS styles should be created in the `css\style.css` file included in the project. 
 
-7. All JavaScript should be created in the `<head>` element in your included `index.html` file.
+7. All JavaScript should be created in the `<head>` element in your included `index.html` file inside of the window.onload function already created in the `<head>` section.
 
 8. Commit your code often and when you are completed send us a pull request from your repository so that we may review your code.
 
