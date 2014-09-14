@@ -12,7 +12,7 @@ We have created a basic mail generator script for you that will load a handful o
 You will need the following tools to complete this challenge
 
 * A personal GitHub account
-* [Sublime Text 2 ](http://www.sublimetext.com/2)
+* [Sublime Text 3 ](http://www.sublimetext.com/3)
 * [Git](https://help.github.com/articles/set-up-git#platform-all)
 
 ## Objectives
