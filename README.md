@@ -18,6 +18,7 @@ You will need the following tools to complete this challenge
 ## Objectives
 
 1. Fork this repository to your own GitHub profile and clone to your local machine.
+ * [How to Fork A Repository](https://help.github.com/articles/fork-a-repo/)
 
 2. Create a basic page layout via HTML/CSS with a top header section with the name of the application and a content section where you will display the messages.
 
