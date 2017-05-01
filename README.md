@@ -47,4 +47,4 @@ You will need the following tools to complete this challenge
 
 Bonus: You may add any images or any extra functionality that you wish to your application and use any other JavaScript frameworks if you like.
 
-##Most Importanly....Have Fun!
+## Most Importanly....Have Fun!
